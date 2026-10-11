@@ -51,12 +51,12 @@
         "name": "Hentai2Read",
         "packageName": "eu.kanade.tachiyomi.extension.en.hentairead",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/RenCopp/mihon-extension-repo/repo/apk/tachiyomi-en.hentairead-v1.6.3.apk",
+          "apkUrl": "https://raw.githubusercontent.com/RenCopp/mihon-extension-repo/repo/apk/tachiyomi-en.hentairead-v1.6.4.apk",
           "iconUrl": "https://raw.githubusercontent.com/RenCopp/mihon-extension-repo/repo/icon/tachiyomi-en.hentairead.png"
         },
         "extensionLib": "1.6",
-        "versionCode": "106003",
-        "versionName": "1.6.3",
+        "versionCode": "106004",
+        "versionName": "1.6.4",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           { "id": "995849229042981976", "name": "Hentai2Read", "language": "en", "homeUrl": "https://hentai2read.com" }
