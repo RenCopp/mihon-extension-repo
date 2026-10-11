@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Hitomi",
+    "pkg": "eu.kanade.tachiyomi.extension.all.hitomi",
+    "apk": "tachiyomi-all.hitomi-v1.6.42.apk",
+    "lang": "all",
+    "code": 42,
+    "version": "1.6.42",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Hitomi",
+        "lang": "all",
+        "id": "1",
+        "baseUrl": "https://hitomi.la"
+      }
+    ]
+  },
+  {
+    "name": "Hentai2Read",
+    "pkg": "eu.kanade.tachiyomi.extension.en.hentairead",
+    "apk": "tachiyomi-en.hentairead-v1.6.0.apk",
+    "lang": "en",
+    "code": 0,
+    "version": "1.6.0",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Hentai2Read",
+        "lang": "en",
+        "id": "2",
+        "baseUrl": "https://hentai2read.com"
+      }
+    ]
+  }
+]
