@@ -181,12 +181,12 @@
         "name": "Hentai2Read",
         "packageName": "eu.kanade.tachiyomi.extension.en.hentairead",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/RenCopp/mihon-extension-repo/repo/apk/tachiyomi-en.hentairead-v1.6.10.apk",
+          "apkUrl": "https://raw.githubusercontent.com/RenCopp/mihon-extension-repo/repo/apk/tachiyomi-en.hentairead-v1.6.11.apk",
           "iconUrl": "https://raw.githubusercontent.com/RenCopp/mihon-extension-repo/repo/icon/tachiyomi-en.hentairead.png"
         },
         "extensionLib": "1.6",
-        "versionCode": "106010",
-        "versionName": "1.6.10",
+        "versionCode": "106011",
+        "versionName": "1.6.11",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -201,12 +201,12 @@
         "name": "nHentai",
         "packageName": "eu.kanade.tachiyomi.extension.all.nhentai",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/RenCopp/mihon-extension-repo/repo/apk/tachiyomi-all.nhentai-v1.6.3.apk",
+          "apkUrl": "https://raw.githubusercontent.com/RenCopp/mihon-extension-repo/repo/apk/tachiyomi-all.nhentai-v1.6.4.apk",
           "iconUrl": "https://raw.githubusercontent.com/RenCopp/mihon-extension-repo/repo/icon/tachiyomi-all.nhentai.png"
         },
         "extensionLib": "1.6",
-        "versionCode": "106003",
-        "versionName": "1.6.3",
+        "versionCode": "106004",
+        "versionName": "1.6.4",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
