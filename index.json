@@ -201,12 +201,12 @@
         "name": "nHentai",
         "packageName": "eu.kanade.tachiyomi.extension.all.nhentai",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/RenCopp/mihon-extension-repo/repo/apk/tachiyomi-all.nhentai-v1.6.4.apk",
+          "apkUrl": "https://raw.githubusercontent.com/RenCopp/mihon-extension-repo/repo/apk/tachiyomi-all.nhentai-v1.6.5.apk",
           "iconUrl": "https://raw.githubusercontent.com/RenCopp/mihon-extension-repo/repo/icon/tachiyomi-all.nhentai.png"
         },
         "extensionLib": "1.6",
-        "versionCode": "106004",
-        "versionName": "1.6.4",
+        "versionCode": "106005",
+        "versionName": "1.6.5",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
